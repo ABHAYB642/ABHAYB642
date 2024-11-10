@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <!-- <h3 align="center">Learning, Building, Growing!</h3> -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="right" alt="Coding" width="400" height="50" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abhay-biramane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhay-biramane" height="30" width="40" /></a>
